@@ -20,4 +20,4 @@ Note You ssh into Public instance, then inside public instance, you then ssh int
 
 Final state:
 
-![After Connection](images/../Lab8_Securing_your_VPC_using_Public_and_Private_Subnets/images/AWS_VPC.png)
+![After Connection](images/Lab8_Securing_your_VPC_using_Public_and_Private_Subnets/images/AWS_VPC.png)

@@ -16,6 +16,8 @@
 
 ## Launching an Ec2 instance on a private subnet
 
+**Get a Key for this lab**
+
 Note You ssh into Public instance, then inside public instance, you then ssh into the private instance.
 
 Final state:
